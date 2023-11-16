@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka0902&label=Profile%20views&color=0e75b6&style=flat" alt="anushka0902" /> </p>
 
-- 🌱 I’m currently learning **React.js, Vues.js etc and many more**
+- 🌱 I’m currently learning **React.js,Vue.js etc and many more**
 
 - 📫 How to reach me **joshianushka999@gmail.com**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anushka-joshi-4097811ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka-joshi-4097811ba/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22928313/anushka-joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22928313/anushka-joshi" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/anushkajoshi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/anushkajoshi9" height="30" width="40" /></a>
+<a href=" https://www.codingninjas.com/studio/profile/Aj999" target="blank"><img align="center" src="https://www.svgrepo.com/show/330198/codingninjas.svg"  height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/joshianushka999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/joshianushka999" height="30" width="40" /></a>
 </p>
 
