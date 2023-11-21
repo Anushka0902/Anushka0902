@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Anushka Joshi</h1>
-<h3 align="center">A developer</h3>
+<h3 align="center">A student(developer)</h3>
 <img  align="right" width="400"src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
