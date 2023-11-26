@@ -53,4 +53,4 @@
 
 
 ### 👀 Visitor Info
-<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
+<img src="https://u8views.com/api/v1/github/profiles/79409258/views/week-month-count.svg">
