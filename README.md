@@ -15,9 +15,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushka-joshi-4097811ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushka-joshi-4097811ba/" height="30" width="40" /></a>
+### 🔗 Social info
 
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/joshianushka999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/joshianushka999" height="30" width="40" /></a>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/anushka-joshi-4097811ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.codingninjas.com/studio/profile/Aj999">
+    <img src="https://img.shields.io/badge/CodingNinjas-D14836?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/joshianushka999">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    </a>
+</div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,10 +48,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&" alt="anushka0902" /></p>
 
-### 🐍 Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
