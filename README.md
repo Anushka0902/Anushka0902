@@ -26,15 +26,10 @@
 ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
-* [Intelli-Kanban](https://github.com/getlost01/Intelli-Kanban)
-* [Web Tools](https://github.com/getlost01/web-tools-gl01)
-* [Blogging Web APIs](https://github.com/getlost01/Postgre-APIs-App)
-* [Inventory App](https://github.com/getlost01/InventoryAppFrontend)
-* [UIET Connect](https://github.com/getlost01/UietConnect)
-* [Meal Planner](https://github.com/getlost01/meal-planner-API)
-* [Voting Management System](https://github.com/getlost01/VotingManagmentSystem)
-* [ABitShort](https://github.com/getlost01/linkshortner)
-* [File Share App](https://github.com/getlost01/dlink-share)
+* [ANUKULAK](https://github.com/Anushka0902/Anukulakh)
+* [AI SUMMARIZER](https://github.com/Anushka0902/Ai-summarizer)
+* [REVENTA](https://github.com/Anushka0902/Reventa)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka0902&show_icons=true&locale=en&layout=compact" alt="anushka0902" /></p>
