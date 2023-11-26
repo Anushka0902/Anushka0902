@@ -42,7 +42,12 @@
 
 
 <br><br>
-
+### 🔥 My Stats 
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka0902&show_icons=true&locale=en&layout=compactt" />  <img width="425" src="https://streak-stats.demolab.com/?user=getlost01&theme=react" />
+<img width="830" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka0902&show_icons=true&locale=en&layout=compact" />
+<a href="https://github.com/anushka0902/github-stats">
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka0902&show_icons=true&locale=en&layout=compact" alt="anushka0902" /></p>
