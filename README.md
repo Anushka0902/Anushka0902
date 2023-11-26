@@ -43,26 +43,8 @@
 
 <br><br>
 
-### 📈 Weekly Development Breakdown
 
-<!--START_SECTION:waka-simple-->
 
-```text
-From: 24 January 2023 - To: 02 October 2023
-
-Total Time: 417 hrs 36 mins
-
-TypeScript     205 hrs 24 mins ████████████▒░░░░░░░░░░░░   49.19 %
-C++            82 hrs 57 mins  █████░░░░░░░░░░░░░░░░░░░░   19.87 %
-JavaScript     78 hrs 53 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-Markdown       15 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JSON           7 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-CSS            5 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-```
-
-<!--END_SECTION:waka-simple-->
-
----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushka0902&show_icons=true&locale=en&layout=compact" alt="anushka0902" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushka0902&show_icons=true&locale=en" alt="anushka0902" /></p>
@@ -70,3 +52,5 @@ CSS            5 hrs 54 mins   ▒░░░░░░░░░░░░░░░�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&" alt="anushka0902" /></p>
 
 
+### 👀 Visitor Info
+<img src="https://u8views.com/api/v1/github/profiles/79409258/views/day-week-month-total-count.svg">
