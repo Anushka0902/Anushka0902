@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1fjZZdjypBFrZYSzke1ieJxG4gPU8f3VQ/view?usp=sharing)
 
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
