@@ -30,7 +30,7 @@
 </div>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### :hammer_and_wrench: Languages and Tools 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>&nbsp;
