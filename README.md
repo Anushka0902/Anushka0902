@@ -61,8 +61,8 @@
 
 ### ⚙️ My Projects 
 
-* [Tic-Tac-Toe](tic-tac-toe)
-* [Box-Office-App](Box-office-app)
+* [Tic-Tac-Toe](https://github.com/Anushka0902/React-internshala-/tree/main/tic-tac-toe)
+* [Box-Office-App](https://github.com/Anushka0902/React-internshala-/tree/main/Box-office-app)
 * [ANUKULAK](https://github.com/Anushka0902/Anukulakh)
 * [AI SUMMARIZER](https://github.com/Anushka0902/Ai-summarizer)
 * [REVENTA](https://github.com/Anushka0902/Reventa)
