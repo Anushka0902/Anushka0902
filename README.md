@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushka0902&label=Profile%20views&color=0e75b6&style=flat" alt="anushka0902" /> </p>
 
-- 🌱 I’m currently learning **React.js, Vues.js etc **
+- 🌱 I’m currently learning  **React.js, Vues.js etc**
 
 - 📫 How to reach me **joshianushka999@gmail.com**
 
