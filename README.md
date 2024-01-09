@@ -10,7 +10,7 @@
 
 
 - 📫 How to reach me **joshianushka999@gmail.com**
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
+- 👨‍💻 All of my Works are available at [PORTFOLIO](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
