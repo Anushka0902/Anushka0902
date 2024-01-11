@@ -60,12 +60,15 @@
 
 ### ⚙️ My Projects 
 
-* [Tic-Tac-Toe](https://github.com/Anushka0902/TIC-TAC-TOE)
-* [Box-Office-App](https://github.com/Anushka0902/Box-officeApp)
+* [TIC-TAC-TOE](https://github.com/Anushka0902/TIC-TAC-TOE)
+* [BOX-OFFICE-APP](https://github.com/Anushka0902/Box-officeApp)
 * [ANUKULAK](https://github.com/Anushka0902/Anukulakh)
 * [AI SUMMARIZER](https://github.com/Anushka0902/Ai-summarizer)
 * [REVENTA](https://github.com/Anushka0902/Reventa)
-* [Docstep](https://github.com/Anushka0902/Docstep)
+* [DOC-STEP](https://github.com/Anushka0902/Docstep)
+* [INVICTA](https://github.com/Anushka0902/INVICTA.git)
+
+  
 
 
 <br><br>
