@@ -1,122 +1,101 @@
+<!-- Header -->
 <div align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="380"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Gen+AI+Engineer+%40+Tata+Consultancy+Services;LangChain+%7C+RAG+%7C+LLMs+%7C+Streamlit+%7C+Python;Building+AI+that+reduces+triage+time+by+40%25)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-<img src="https://komarev.com/ghpvc/?username=anushka0902&label=Profile+Views&color=00d9ff&style=flat-square"/>
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
-&nbsp;
-[![CodingNinjas](https://img.shields.io/badge/CodingNinjas-D14836?style=flat-square&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/Aj999)
-&nbsp;
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-35914c?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/joshianushka999)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Gen+AI+Engineer;LangChain+%7C+RAG+%7C+LLMs+%7C+Python;Building+AI+%40+Tata+Consultancy+Services)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/joshianushka999)
+
+<img src="https://komarev.com/ghpvc/?username=anushka0902&label=Profile+Views&color=00d9ff&style=flat-square" />
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👩‍💻 About Me
 
 ```python
 class Engineer:
-    role        = "Gen AI Developer @ Tata Consultancy Services"
-    location    = "Haldwani, Uttarakhand 🇮🇳"
-    education   = "B.Tech CSE — BIAS | CGPA 8.52"
-    ai_stack    = ["LangChain", "RAG", "LLMs", "Prompt Engineering", "Pinecone"]
-    web_stack   = ["React.js", "Node.js", "Streamlit", "MongoDB", "TypeScript"]
-    currently   = "Architecting enterprise GenAI at TCS → 40% faster triage"
-    # Open to: GenAI collaborations, RAG projects, AI product builds
+    role       = "Gen AI Developer  @  Tata Consultancy Services"
+    location   = "Haldwani, Uttarakhand, India"
+    education  = "B.Tech CSE  |  CGPA 8.52  |  BIAS"
+    ai_stack   = ["LangChain", "RAG", "LLMs", "Prompt Engineering", "Pinecone"]
+    web_stack  = ["React.js", "Node.js", "Streamlit", "MongoDB", "TypeScript"]
+    currently  = "Architecting enterprise GenAI → 40% faster ticket triage"
+    open_to    = "GenAI collaborations · RAG projects · AI product builds"
 ```
 
 ---
 
-## `⚡ TCS Impact`
+## ⚡ Impact @ TCS
 
-```
-┌────────────────────────────────────────────────────────────────┐
-│  🎯  Ticket triage time reduced       →  40% faster            │
-│  🔗  ServiceNow API uptime            →  99.9%                 │
-│  🤖  Workflow automation adoption     →  +25% estimated        │
-│  📊  LLM predictions                  →  Real-time in prod     │
-└────────────────────────────────────────────────────────────────┘
-```
+| Metric | Result |
+|--------|--------|
+| 🎯 Ticket triage time | **40% faster** via LLM dashboard |
+| 🔗 ServiceNow API uptime | **99.9%** achieved |
+| 🤖 Workflow automation adoption | **+25%** estimated increase |
+| 📊 LLM predictions | **Real-time** in production |
 
 ---
 
-## `🚀 Featured Projects`
+## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 Multi-Modal RAG System &nbsp;·&nbsp; `Python` `Gemini` `Pinecone` `LangChain` `Streamlit`
+> Chat with PDFs, images & CSVs simultaneously — fully free AI stack
 
-### 🧠 Multi-Modal RAG System
-Chat with PDFs, images & CSVs simultaneously using a fully **free** AI stack.
-
-**Stack:** Python · Gemini 2.5 Flash · Pinecone · BGE · BM25 · CrossEncoder · Streamlit
-
-- Hybrid retrieval: BM25 + semantic + RRF fusion
+- Hybrid retrieval: BM25 + semantic search + RRF fusion
 - 🟢🟡🔴 Live relevance scoring per answer
-- Chat history + 👍👎 feedback dashboard
-- Zero API cost — local embeddings + Gemini free tier
+- Chat history + 👍👎 feedback dashboard  
+- Zero cost: local BGE embeddings + Gemini 2.5 Flash free tier
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🏛️ [INVICTA — Gov Scheme Finder](https://github.com/Anushka0902/INVICTA.git)
-Find government schemes in under **5 seconds**.
+### 🏛️ [INVICTA — Government Scheme Finder](https://github.com/Anushka0902/INVICTA.git) &nbsp;·&nbsp; `React.js` `Node.js` `MongoDB`
+> Find government schemes in under **5 seconds**
 
-**Stack:** React.js · Node.js · MongoDB · React Router
-
-- Real-time progress: 12 govt initiatives
-- 📈 20% engagement boost
-- 40% fewer redundant API calls
+- Real-time scheme progress across 12 government initiatives
+- 📈 20% dashboard engagement boost · 40% fewer API calls
 - 15% user satisfaction improvement
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🛍️ [REVENTA — E-Commerce](https://github.com/Anushka0902/Reventa)
-3-in-1 marketplace: Buy · Rent · Resell.
-
-**Stack:** Node.js · EJS · MongoDB · JavaScript
+### 🛍️ [REVENTA — E-Commerce Platform](https://github.com/Anushka0902/Reventa) &nbsp;·&nbsp; `Node.js` `EJS` `MongoDB`
+> 3-in-1 marketplace: Buy · Rent · Resell
 
 - ⚡ 30% faster initial load via lazy loading
 - 30% higher utility vs single-model platforms
-- SSR with EJS for SEO performance
-- Full MongoDB data persistence
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [AI Summarizer](https://github.com/Anushka0902/Ai-summarizer) + More
-
-**Other projects:**
-- 🏥 [DOC-STEP](https://github.com/Anushka0902/Docstep) — Healthcare platform
-- 🌿 [ANUKULAK](https://github.com/Anushka0902/Anukulakh) — Sustainability
-- 🎮 [TIC-TAC-TOE](https://github.com/Anushka0902/TIC-TAC-TOE)
-- 🎬 [BOX-OFFICE-APP](https://github.com/Anushka0902/Box-officeApp)
-
-</td>
-</tr>
-</table>
+- Full SSR with EJS for SEO performance
 
 ---
 
-## `🛠 Tech Stack`
+### 🔗 More Projects
 
-**AI / Gen AI**
+| Project | Stack | Link |
+|---------|-------|------|
+| 🤖 AI Summarizer | React.js · AI APIs | [GitHub](https://github.com/Anushka0902/Ai-summarizer) |
+| 🏥 Doc-Step | Healthcare platform | [GitHub](https://github.com/Anushka0902/Docstep) |
+| 🌿 Anukulak | Sustainability app | [GitHub](https://github.com/Anushka0902/Anukulakh) |
+| 🎬 Box Office App | Movie discovery | [GitHub](https://github.com/Anushka0902/Box-officeApp) |
+| 🎮 Tic-Tac-Toe | JavaScript game | [GitHub](https://github.com/Anushka0902/TIC-TAC-TOE) |
+
+---
+
+## 🛠️ Tech Stack
+
+**AI & Gen AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Web Development**
@@ -124,40 +103,41 @@ Find government schemes in under **5 seconds**.
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Databases & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
-## `🏆 Achievements`
+## 🏆 Achievements
 
-- 🥇 **1st Position** — University SOCIO-HACKATHON, Birla Institute of Applied Sciences
-- 🔬 **Top 50 Teams** — NIT Srinagar State-Level Project Competition
-- 🚀 **Selected** — Startup Uttarakhand Grand Challenge 2022–23 *(Govt. of India)*
+🥇 &nbsp;**1st Position** — University SOCIO-HACKATHON · Birla Institute of Applied Sciences  
+🔬 &nbsp;**Top 50 Teams** — NIT Srinagar State-Level Project Competition  
+🚀 &nbsp;**Selected** — Startup Uttarakhand Grand Challenge 2022–23 · *Government of India*  
 
 ---
 
-## `📊 GitHub Stats`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anushka0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0902&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anushka0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0902&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -165,12 +145,9 @@ Find government schemes in under **5 seconds**.
 
 <div align="center">
 
-**`Currently building AI systems that scale — open to GenAI collaborations & RAG projects`**
+*Currently building AI systems that scale — open to GenAI collaborations*
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-43853D?style=for-the-badge&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
+[![Send Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
 
 </div>
