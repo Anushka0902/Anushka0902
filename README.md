@@ -1,25 +1,17 @@
 <div align="center">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="380"/>
 
-```
- ▄▄▄       ███▄    █  █    ██   ██████  ██░ ██  ██ ▄█▀ ▄▄▄
-▒████▄     ██ ▀█   █  ██  ▓██▒▒██    ▒ ▓██░ ██▒ ██▄█▒ ▒████▄
-▒██  ▀█▄  ▓██  ▀█ ██▒▓██  ▒██░░ ▓██▄   ▒██▀▀██░▓███▄░ ▒██  ▀█▄
-░██▄▄▄▄██ ▓██▒  ▐▌██▒▓▓█  ░██░  ▒   ██▒░▓█ ░██ ▓██ █▄ ░██▄▄▄▄██
- ▓█   ▓██▒▒██░   ▓██░▒▒█████▓ ▒██████▒▒░▓█▒░██▓▒██▒ █▄ ▓█   ▓██▒
- ▒▒   ▓▒█░░ ▒░   ▒ ▒ ░▒▓▒ ▒ ▒ ▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒▒ ▒▒ ▓▒ ▒▒   ▓▒█░
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Gen+AI+Engineer+%40+Tata+Consultancy+Services;LangChain+%7C+RAG+%7C+LLMs+%7C+Streamlit+%7C+Python;Building+AI+that+reduces+triage+time+by+40%25)](https://git.io/typing-svg)
 
-### `> Gen AI Engineer_` `> LangChain Architect_` `> Full-Stack Dev_`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+AI+systems+that+actually+work+in+production;LangChain+%7C+LLMs+%7C+RAG+%7C+Streamlit+%7C+Python;TCS+Gen+AI+Developer+%E2%86%92+40%25+faster+ticket+triage)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=anushka0902&label=Profile+Views&color=00d9ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=anushka0902&label=Profile+Views&color=00d9ff&style=flat-square"/>
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![CodingNinjas](https://img.shields.io/badge/CodingNinjas-D14836?style=flat-square&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/Aj999)
+&nbsp;
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-35914c?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/joshianushka999)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
 
@@ -27,46 +19,31 @@
 
 ---
 
-## `whoami`
+## `$ whoami`
 
 ```python
-class AnushkaJoshi:
+class Engineer:
     role        = "Gen AI Developer @ Tata Consultancy Services"
     location    = "Haldwani, Uttarakhand 🇮🇳"
-    education   = "B.Tech CSE — Birla Institute of Applied Sciences (CGPA: 8.52)"
-    focus       = ["Generative AI", "RAG Systems", "LLM Pipelines", "Workflow Automation"]
-    currently   = "Building enterprise AI solutions that reduce ops time by 40%"
-    contact     = "joshianushka999@gmail.com"
+    education   = "B.Tech CSE — BIAS | CGPA 8.52"
+    ai_stack    = ["LangChain", "RAG", "LLMs", "Prompt Engineering", "Pinecone"]
+    web_stack   = ["React.js", "Node.js", "Streamlit", "MongoDB", "TypeScript"]
+    currently   = "Architecting enterprise GenAI at TCS → 40% faster triage"
+    # Open to: GenAI collaborations, RAG projects, AI product builds
 ```
 
 ---
 
-## `⚡ What I Build`
+## `⚡ TCS Impact`
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Gen AI
-- Multi-Modal RAG Systems (PDF + Image + CSV)
-- LangChain pipelines with hybrid BM25 + semantic search
-- LLM-powered ticket classification & automation
-- Prompt engineering & predictive modeling
-- ServiceNow AI integrations (99.9% uptime)
-
-</td>
-<td width="50%">
-
-### 🌐 Full Stack
-- React.js SPAs with real-time data routing
-- Streamlit dashboards for AI products
-- Node.js + MongoDB backends
-- REST API design & integration
-- E-Commerce platforms (Buy / Rent / Resell)
-
-</td>
-</tr>
-</table>
+```
+┌────────────────────────────────────────────────────────────────┐
+│  🎯  Ticket triage time reduced       →  40% faster            │
+│  🔗  ServiceNow API uptime            →  99.9%                 │
+│  🤖  Workflow automation adoption     →  +25% estimated        │
+│  📊  LLM predictions                  →  Real-time in prod     │
+└────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -77,31 +54,26 @@ class AnushkaJoshi:
 <td width="50%" valign="top">
 
 ### 🧠 Multi-Modal RAG System
-> *The project you're reading about right now*
+Chat with PDFs, images & CSVs simultaneously using a fully **free** AI stack.
 
-An end-to-end RAG pipeline that lets you chat with PDFs, images, and CSVs simultaneously.
+**Stack:** Python · Gemini 2.5 Flash · Pinecone · BGE · BM25 · CrossEncoder · Streamlit
 
-**Stack:** Python · Gemini 2.5 Flash · Pinecone · BGE Embeddings · BM25 · CrossEncoder · Streamlit
-
-**Highlights:**
 - Hybrid retrieval: BM25 + semantic + RRF fusion
-- Free stack: zero API costs (Gemini + local models)
-- Live relevance scoring (🟢🟡🔴) per answer
+- 🟢🟡🔴 Live relevance scoring per answer
 - Chat history + 👍👎 feedback dashboard
+- Zero API cost — local embeddings + Gemini free tier
 
 </td>
 <td width="50%" valign="top">
 
-### 🏛️ [INVICTA — Government Scheme Finder](https://github.com/Anushka0902/INVICTA.git)
-
-Helps citizens find relevant government schemes in under **5 seconds**.
+### 🏛️ [INVICTA — Gov Scheme Finder](https://github.com/Anushka0902/INVICTA.git)
+Find government schemes in under **5 seconds**.
 
 **Stack:** React.js · Node.js · MongoDB · React Router
 
-**Highlights:**
-- Real-time scheme progress across 12 initiatives
-- Debounced search → 40% fewer API calls
-- 20% boost in dashboard engagement
+- Real-time progress: 12 govt initiatives
+- 📈 20% engagement boost
+- 40% fewer redundant API calls
 - 15% user satisfaction improvement
 
 </td>
@@ -109,29 +81,26 @@ Helps citizens find relevant government schemes in under **5 seconds**.
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ [REVENTA — E-Commerce Platform](https://github.com/Anushka0902/Reventa)
+### 🛍️ [REVENTA — E-Commerce](https://github.com/Anushka0902/Reventa)
+3-in-1 marketplace: Buy · Rent · Resell.
 
-3-in-1 marketplace: Buy, Rent & Resell in one platform.
+**Stack:** Node.js · EJS · MongoDB · JavaScript
 
-**Stack:** HTML · CSS · JS · Node.js · EJS · MongoDB
-
-**Highlights:**
+- ⚡ 30% faster initial load via lazy loading
 - 30% higher utility vs single-model platforms
-- Lazy loading → 30% faster initial load
-- Server-side rendering for SEO
-- Full MongoDB data persistence layer
+- SSR with EJS for SEO performance
+- Full MongoDB data persistence
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 [DOC-STEP](https://github.com/Anushka0902/Docstep) &nbsp;|&nbsp; [AI Summarizer](https://github.com/Anushka0902/Ai-summarizer)
-
-Healthcare + AI utility tools built for real use cases.
+### 🤖 [AI Summarizer](https://github.com/Anushka0902/Ai-summarizer) + More
 
 **Other projects:**
-- 🎮 [TIC-TAC-TOE](https://github.com/Anushka0902/TIC-TAC-TOE) — Classic game in JS
-- 🎬 [BOX-OFFICE-APP](https://github.com/Anushka0902/Box-officeApp) — Movie discovery app
-- 🌿 [ANUKULAK](https://github.com/Anushka0902/Anukulakh) — Sustainability platform
+- 🏥 [DOC-STEP](https://github.com/Anushka0902/Docstep) — Healthcare platform
+- 🌿 [ANUKULAK](https://github.com/Anushka0902/Anukulakh) — Sustainability
+- 🎮 [TIC-TAC-TOE](https://github.com/Anushka0902/TIC-TAC-TOE)
+- 🎬 [BOX-OFFICE-APP](https://github.com/Anushka0902/Box-officeApp)
 
 </td>
 </tr>
@@ -141,16 +110,16 @@ Healthcare + AI utility tools built for real use cases.
 
 ## `🛠 Tech Stack`
 
-**AI / ML**
+**AI / Gen AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Web**
+**Web Development**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -159,6 +128,7 @@ Healthcare + AI utility tools built for real use cases.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 **Databases & Cloud**
 
@@ -166,48 +136,28 @@ Healthcare + AI utility tools built for real use cases.
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
----
-
-## `📊 Impact at TCS`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🎯  Ticket triage time reduced          →  40% faster      │
-│  🔗  ServiceNow API uptime               →  99.9%           │
-│  🤖  Workflow automation adoption        →  +25% estimated  │
-│  📊  Dashboard predictions               →  Real-time LLM   │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
 ## `🏆 Achievements`
 
-```
-🥇  1st Place  — University SOCIO-HACKATHON
-🔬  Top 50     — NIT Srinagar State-Level Project Competition  
-🚀  Selected   — Startup Uttarakhand Grand Challenge 2022-23 (Govt. of India)
-```
+- 🥇 **1st Position** — University SOCIO-HACKATHON, Birla Institute of Applied Sciences
+- 🔬 **Top 50 Teams** — NIT Srinagar State-Level Project Competition
+- 🚀 **Selected** — Startup Uttarakhand Grand Challenge 2022–23 *(Govt. of India)*
 
 ---
 
-## `📈 GitHub Stats`
+## `📊 GitHub Stats`
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=anushka0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=anushka0902&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0902&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushka0902&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anushka0902&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -215,10 +165,12 @@ Healthcare + AI utility tools built for real use cases.
 
 <div align="center">
 
-**`Currently building AI systems that scale. Open to collaborations on GenAI & RAG projects.`**
+**`Currently building AI systems that scale — open to GenAI collaborations & RAG projects`**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-43853D?style=for-the-badge&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
 
 </div>
