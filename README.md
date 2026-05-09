@@ -71,7 +71,7 @@ class AnushkaJoshi:
 
 ## 🚀 Featured Projects
 
-### 🤖 AgentIQ — Multi-Agent Research & Analysis Pipeline
+### 🤖 AgentIQ — Multi-Agent Research & Analysis Pipeline(https://ai-research-agent-mzby.onrender.com/)
 > `Python` · `LangGraph` · `FastAPI` · `ChromaDB` · `Groq` · `SSE`
 
 - Designed a **self-correcting 5-agent research pipeline** where a dedicated Critic agent scores every output and automatically loops low-quality results back for refinement — removing the need for manual review entirely.
@@ -79,7 +79,7 @@ class AnushkaJoshi:
 
 ---
 
-### 📄 DocuMind — Multi-Modal RAG Intelligence Platform
+### 📄 DocuMind — Multi-Modal RAG Intelligence Platform(https://multimodal-rag-4ccpt7rdkk6yxarnsjxgwh.streamlit.app/)
 > `Python` · `LangChain` · `Pinecone` · `OpenAI` · `Streamlit`
 
 - Engineered a **multi-modal RAG system** capable of understanding PDFs, images, and spreadsheets in a single platform — GPT-4 Vision extracts meaning from images while OpenAI's highest-dimensional embeddings handle the rest.
@@ -87,7 +87,7 @@ class AnushkaJoshi:
 
 ---
 
-### 🏛️ [Invicta — Government Scheme Finder](https://github.com/Anushka0902/INVICTA.git)
+### 🏛️ [Invicta — Government Scheme Finder](https://cheery-conkies-5503bd.netlify.app/)
 > `React.js` · `Node.js` · `MongoDB` · `REST APIs` · `Cohere`
 
 - Built a React.js SPA that gets users from search to the right government scheme in **under 5 seconds** — dynamic filtering across hundreds of schemes with zero page reloads.
@@ -109,12 +109,6 @@ class AnushkaJoshi:
 
 ---
 
-### 🏥 [Doc-Step — Healthcare Platform](https://github.com/Anushka0902/Docstep)
-> `Full Stack`
-
-- Full-stack healthcare platform built for accessibility and clear UX across the patient journey.
-
----
 
 ## 🛠️ Tech Stack
 
