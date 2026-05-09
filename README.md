@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A78BFA.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-dun-xi-55.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/joshianushka999)
