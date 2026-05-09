@@ -186,7 +186,7 @@ class AnushkaJoshi:
 <br/>
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-joshi-4097811ba/)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://659d4937b0db3004afe616d9--zingy-licorice-73fe0c.netlify.app/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-A78BFA?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-dun-xi-55.vercel.app/)
 [![Drop a Mail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshianushka999@gmail.com)
 
 </div>
